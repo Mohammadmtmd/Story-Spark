@@ -1,0 +1,6 @@
+{
+  "name": "StorySpark",
+  "description": "استودیو هوشمند آموزش زبان انگلیسی کودکان بر پایه تحلیل تصاویر کتاب و هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
